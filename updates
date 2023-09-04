@@ -1,4 +1,27 @@
 - Developed by .nyambura
+[04/09/2023]
+- Driving:
+- + First Person Shooter (FPP) Camera while doing driveby (Any vehicle).
+- Trucker Job:
+- + Bugged Interaction UI fixed.
+- Laundry:
+- + Logs for usage of any laundry addded.
+
+[03/09/2023]
+- Donate Market:
+- + Added NPC for aesthetic than interacting with no one.
+- + Logs while losing job after donation expiration + Fix.
+- + Added notification after re-paying for donate store from boss menu.
+- LCPD / EMS: 
+- + Shared chat between jobs (/dispatch).
+- Commands:
+- + /reloadskin & /clearstuckprops. While you're cuffed or currying an item from house robbery youre not able to use the command. (Screenshot Logs once used command included)
+- UI/HUD:
+- + Street Names on compass.
+- House Robbery:
+- + Removed Night time limit, now you can rob a house any time in-game.
+- + Fixed safe reward item. (Reported screenshot error)
+
 [02/09/2023]
 - Mechanic Performance Parts Fix.
 - House Robbery MLO Despawn & Safe Minigame Fix.
