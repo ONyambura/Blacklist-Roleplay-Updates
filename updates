@@ -1,4 +1,12 @@
 - Developed by .nyambura
+[11/09/2023]
+- Apartments
+- + Ring method changed from list to input.
+- + Added Ram feature for police user.
+- + Fix same room rentals.
+- Recycle Job
+- + Removed lucky item (Rubber).
+
 [10/09/2023]
 - Apartments
 - + Added option to cancel a rental.
