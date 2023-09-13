@@ -1,6 +1,25 @@
 - Developed by .nyambura
+[13/09/2023]
+- Weed:
+- + Reverted to 50 Seeds per Retart.
+
+[12/09/2023]
+- Weed:
+- + Weed Pants needs 3 hours to grow and you take dry weed instead of wet bud.
+- + Unlimited Seeds
+- LCPD:
+- + Added extra menu to have their own callsign to their cars.
+- Vehicles:
+- + Scrapyard from now only mechanics can buy materials from scrapyard.
+- + Chop shop location added so the criminals can take materials from there for their crafts. (wait for hint)
+- Jobs:
+- + Recycle job boosted.
+- + Taxi job boosted.
+- + Windows Cleaner job boosted.
+- + Trucker job boosted.
+
 [11/09/2023]
-- Apartments
+- Apartments:
 - + Ring method changed from list to input.
 - + Added Ram feature for police user.
 - + Fix same room rentals.
@@ -8,7 +27,7 @@
 - + Removed lucky item (Rubber).
 
 [10/09/2023]
-- Apartments
+- Apartments:
 - + Added option to cancel a rental.
 - + Changed Ring Bell icon at apartment target.
 - Tweaks
